@@ -14,7 +14,7 @@
         loop: true,
         nav: true,
         dots: false,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 5000,
         smartSpeed: 7000,
         responsive:{
